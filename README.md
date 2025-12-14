@@ -1,5 +1,5 @@
 <h1 align="center">Hello folks👋 I'm Ankita</h1>
-<h3 align="center">Energetic and passionate Computer Science student of Banasthali Vidyapith, having real enthusiasm in Machine learning and Web Development.</h3>
+<h3 align="center">Software Engineer at Samsung RnD India.</h3>
 
 
 - 📫Reach me via **ankitakumari112299@gmail.com**
